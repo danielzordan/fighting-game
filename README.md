@@ -1,5 +1,5 @@
 - [X] Project Setup
-- [ ] Create Player and Enemy
+- [X] Create Player and Enemy
 - [ ] Move Character with Event Listeners
 - [ ] Attacks
 - [ ] Health Bar Interface
