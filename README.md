@@ -11,7 +11,7 @@ Sprites and Animation:
 - [X] Shop Sprite With Animation
 - [ ] Player Sprite (Samurai Mack)
     - [X] Idle
-    - [ ] Run
+    - [X] Run
     - [ ] Jump
     - [ ] Attack
 - [ ] Enemy Sprite (Kenji)
