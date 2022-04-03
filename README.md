@@ -14,6 +14,6 @@ Sprites and Animation:
     - [X] Run
     - [X] Jump
     - [X] Attack
-- [ ] Enemy Sprite (Kenji)
+- [X] Enemy Sprite (Kenji)
 - [ ] Interface Design and Animation
 - [ ] Pushing Live
