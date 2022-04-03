@@ -10,6 +10,10 @@ Sprites and Animation:
 - [X] Background Sprite
 - [X] Shop Sprite With Animation
 - [ ] Player Sprite (Samurai Mack)
+    - [X] Idle
+    - [ ] Run
+    - [ ] Jump
+    - [ ] Attack
 - [ ] Enemy Sprite (Kenji)
 - [ ] Interface Design and Animation
 - [ ] Pushing Live
