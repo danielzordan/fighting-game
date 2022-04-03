@@ -7,8 +7,8 @@ Basic Fighting Game Meachanics:
 - [X] Game Timers and Game Over
 
 Sprites and Animation:
-- [ ] Background Sprite
-- [ ] Shop Sprite With Animation
+- [X] Background Sprite
+- [X] Shop Sprite With Animation
 - [ ] Player Sprite (Samurai Mack)
 - [ ] Enemy Sprite (Kenji)
 - [ ] Interface Design and Animation
