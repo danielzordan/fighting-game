@@ -60,6 +60,10 @@ const player = new Fighter({
             imageSrc: 'img/samuraiMack/Fall.png',
             framesMax: 2,
         },
+        attack: {
+            imageSrc: 'img/samuraiMack/Attack1.png',
+            framesMax: 6,
+        },
     }
 });
 
@@ -123,8 +127,11 @@ function animate() {
     } else if (player.velocity.y > 0) {
         player.switchSprite('fall');
     }
-
     
+    if (player.isAttacking) {
+        player.switchSprite('attack');
+    }
+
     enemy.velocity.x = 0;
 
     // enemy movement

@@ -9,11 +9,11 @@ Basic Fighting Game Meachanics:
 Sprites and Animation:
 - [X] Background Sprite
 - [X] Shop Sprite With Animation
-- [ ] Player Sprite (Samurai Mack)
+- [X] Player Sprite (Samurai Mack)
     - [X] Idle
     - [X] Run
     - [X] Jump
-    - [ ] Attack
+    - [X] Attack
 - [ ] Enemy Sprite (Kenji)
 - [ ] Interface Design and Animation
 - [ ] Pushing Live
