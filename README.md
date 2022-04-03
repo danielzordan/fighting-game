@@ -12,7 +12,7 @@ Sprites and Animation:
 - [ ] Player Sprite (Samurai Mack)
     - [X] Idle
     - [X] Run
-    - [ ] Jump
+    - [X] Jump
     - [ ] Attack
 - [ ] Enemy Sprite (Kenji)
 - [ ] Interface Design and Animation
