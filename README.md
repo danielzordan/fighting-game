@@ -17,6 +17,6 @@ Sprites and Animation:
 - [X] Enemy Sprite (Kenji)
 - [X] React to Sprite Attacks
 - [X] Receive Hit Animation
-- [ ] Death Animation
+- [X] Death Animation
 - [ ] Interface Design and Animation
 - [ ] Pushing Live
