@@ -1,22 +1,24 @@
 Basic Fighting Game Meachanics:
-- [X] Project Setup
-- [X] Create Player and Enemy
-- [X] Move Character with Event Listeners
-- [X] Attacks
-- [X] Health Bar Interface
-- [X] Game Timers and Game Over
+
+- [x] Project Setup
+- [x] Create Player and Enemy
+- [x] Move Character with Event Listeners
+- [x] Attacks
+- [x] Health Bar Interface
+- [x] Game Timers and Game Over
 
 Sprites and Animation:
-- [X] Background Sprite
-- [X] Shop Sprite With Animation
-- [X] Player Sprite (Samurai Mack)
-    - [X] Idle
-    - [X] Run
-    - [X] Jump
-    - [X] Attack
-- [X] Enemy Sprite (Kenji)
-- [X] React to Sprite Attacks
-- [X] Receive Hit Animation
-- [X] Death Animation
-- [ ] Interface Design and Animation
+
+- [x] Background Sprite
+- [x] Shop Sprite With Animation
+- [x] Player Sprite (Samurai Mack)
+  - [x] Idle
+  - [x] Run
+  - [x] Jump
+  - [x] Attack
+- [x] Enemy Sprite (Kenji)
+- [x] React to Sprite Attacks
+- [x] Receive Hit Animation
+- [x] Death Animation
+- [x] Interface Design and Animation
 - [ ] Pushing Live
