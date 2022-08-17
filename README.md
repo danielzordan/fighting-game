@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/20348582/185207972-1d82834e-175f-48ba-8fd4-6dea729069dd.png)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/20348582/185211369-a191ce6c-b768-43f3-82f7-227457ffc36b.gif)
 
 Basic Fighting Game Meachanics:
 
